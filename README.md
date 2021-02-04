@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Personal Chatbot Alice](https://github.com/TFreitaz/Personal-Chatbot-Alice)
 
-- 📝 I regulary write articles on [https://medium.com/@thales.freitaz](https://medium.com/@thales.freitaz)
+- 📝 I regulary write articles on [https://thalesfreitaz.medium.com/](https://medium.com/@thales.freitaz)
 
 - 📫 How to reach me **thales.zfreitas@gmail.com**
 
