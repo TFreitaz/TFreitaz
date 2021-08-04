@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thales Freitas</h1>
-<h3 align="center">A passionate data science developer and engineering studant from Brazil</h3>
+<h3 align="center">Working as Data Engineer, and descovering the data science world.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tfreitaz" alt="tfreitaz" /> </p>
 
 - 🔭 I’m currently working on [Personal Chatbot Alice](https://github.com/TFreitaz/Personal-Chatbot-Alice)
