@@ -15,5 +15,5 @@
 <a href="https://kaggle.com/thalesfreitaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="thalesfreitaz" height="20" width="20" /></a>
 <a href="https://fb.com/thales.freitaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thales.freitaz" height="20" width="20" /></a>
 <a href="https://instagram.com/thales.freitaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thales.freitaz" height="20" width="20" /></a>
-<a href="https://medium.com/@thales.freitaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@thales.freitaz" height="20" width="20" /></a>
+<a href="https://thalesfreitaz.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@thales.freitaz" height="20" width="20" /></a>
 </p>
