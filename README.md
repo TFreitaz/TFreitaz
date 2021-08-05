@@ -2,7 +2,7 @@
 <h3 align="center">Working as Data Engineer, and descovering the data science world.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tfreitaz" alt="tfreitaz" /> </p>
 
-- 🔭 I’m currently working on [Personal Chatbot Alice](https://github.com/TFreitaz/Personal-Chatbot-Alice)
+- 🔭 I’m currently working on [Alice Telegram Bot](https://github.com/TFreitaz/alice-telegram-bot)
 
 - 📝 I regulary write articles on [https://thalesfreitaz.medium.com/](https://medium.com/@thales.freitaz)
 
