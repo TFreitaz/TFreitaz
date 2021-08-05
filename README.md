@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **Music is my second life**
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tfreitaz&show_icons=true" alt="tfreitaz" /> </p>
+
 <p align="center">
 <a href="https://linkedin.com/in/thales-zfreitas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thales-zfreitas" height="20" width="20" /></a>
 <a href="https://kaggle.com/thalesfreitaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="thalesfreitaz" height="20" width="20" /></a>
